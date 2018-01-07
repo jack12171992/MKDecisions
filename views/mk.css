@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 50px;
+}
+
+body {
+	text-align: center;
+	background: -webkit-linear-gradient(to right, #fff, #076585); 
+	background: linear-gradient(to right, #fff, #076585);
+}
+
+input {
+	text-align: center;
+	margin-top: 10px;
+	width:200px;
+}
+
+button {
+	margin-top: 10px;
+}
