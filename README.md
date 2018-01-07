@@ -16,4 +16,5 @@ Languages used: HTML, CSS, and JavaScript
 Tools used: Node.js, Express.js, SendGrid, and AWS
 
 01/06/2018
+
 Jack Lee
