@@ -1,9 +1,4 @@
-# MKDecisions
-Developer Pre Interview Challenge
-
-This is the Developer Pre Interview Challenge for MKDecisions written with Node.js in AWS Cloud9 IDE.
-
-The Login credentials can be found here as a .json file: https://s3-us-west-1.amazonaws.com/mkdecisions/data.json
+This is a website contact form with valid login credential.
 
 1.)By typing the valid login credential, the web page will be directed to contact form page.
 
